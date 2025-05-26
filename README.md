@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### 🌟 以下是我贡献过的开源项目
 | 项目 | Pull Request |
 |------|--------|
+| [Lamia](https://github.com/cao2068959/lamia) | [Contribution](https://github.com/cao2068959/lamia/commits?author=hhy50) |
 | [RocketMQ](https://github.com/apache/rocketmq) | [Contribution](https://github.com/apache/rocketmq/pulls?q=author%3Ahhy50) |
 | [Arthas](https://github.com/alibaba/arthas) | [Contribution](https://github.com/alibaba/arthas/pulls?q=author%3Ahhy50) |
-| [Lamia](https://github.com/cao2068959/lamia) | [Contribution](https://github.com/cao2068959/lamia/commits?author=hhy50) |
+
 
