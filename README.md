@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌟 以下是我贡献过的开源项目
+| 项目 | Pull Request |
+|------|--------|
+| [RocketMQ](https://github.com/apache/rocketmq) | [Contribution](https://github.com/apache/rocketmq/pulls?q=author%3Ahhy50) |
+| [Arthas](https://github.com/alibaba/arthas) | [Contribution](https://github.com/alibaba/arthas/pulls?q=author%3Ahhy50) |
